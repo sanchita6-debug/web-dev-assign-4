@@ -327,15 +327,15 @@ Socket connection and disconnection messages are also logged.
 Add your Thunder Client and browser screenshots to the `screenshots/`
 folder. The following names can be used:
 
-1.  `01-signup.png`
-2.  `02-login.png`
-3.  `03-notes-no-token.png`
-4.  `04-profile.png`
-5.  `05-admin-denied.png`
-6.  `06-admin-allowed.png`
-7.  `07-create-note.png`
-8.  `08-get-notes.png`
-9.  `09-update-note.png`
-10. `10-delete-note.png`
-11. `11-chat-browser.png`
-12. `12-console-logs.png`
+1.  ![alt text](screenshots/01-signup.png)
+2.  ![alt text](screenshots/02-login.png)
+3.  ![alt text](screenshots/03-notes-no-token.png)
+4.  ![alt text](screenshots/04-profile.png)
+5.  ![alt text](screenshots/05-admin-denied.png)
+6.  ![alt text](screenshots/06a-admin-signup.png)
+7.  ![alt text](screenshots/07-create-note.png)
+8.  ![alt text](screenshots/08-get-notes.png)
+9.  ![alt text](screenshots/09-update-note.png)
+10. ![alt text](screenshots/10-delete-note.png)
+11. ![alt text](screenshots/11b-chat-second-user.png)
+12. ![alt text](screenshots/12-console-logs.png)
